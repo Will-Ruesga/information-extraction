@@ -11,11 +11,3 @@ All models perform sequence labeling for the entity types:
 ```
 O, B-ADR, I-ADR, B-Disease, I-Disease, B-Drug, I-Drug, B-Finding, I-Finding, B-Symptom, I-Symptom
 ```
----
-
-## Installation
-```bash
-git clone <repo_url>
-cd <repo_name>
-pip install -r requirements.txt
-```
